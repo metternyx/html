@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>  
+    <head> 
+        <meta charset ="UTF=8" />
+        <title>ISLAM sait</title>
+    </head> 
+    <body>
+        <img src="avatar.jpg" width="200" alt="тут моя фотка"/>
+        
+        <h1>hi my ISLAMed </h1>
+        <p> я родился учить <strong> aнглийский язык </strong>и читать веб новеллы</em></p>
+        <hr>
+
+
+        <h2><strong>опыт видео</strong></h2>
+        <table border="2">
+            <tr>    
+                <th>Место </th>
+                <th> Роль</th>
+                <th>Год</th>
+            </tr>
+            <tr >        
+             <td>84 school</td>
+           <td>школьник</td>
+           <td>2014-2021</td>
+
+            </tr>
+        </table>
+         
+        <hr size="100">
+        
+        
+        <ul type="square">
+           <li> <a href="https://www.youtube.com/watch?v=n-YhnxePIpM "
+             target="_blank"> youtube  </a>   </li> 
+           <li> <a  href="https://www.youtube.com/@VladilenMinin">https://www.youtube.com/@VladilenMinin</a>   </li> 
+        </ul>
+         <hr size="10"> 
+          <a href="hello.html">Введите курсы</a>
+
+          
+        </ol>
+
+    </body>  
+</html>   
